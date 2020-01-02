@@ -7,8 +7,10 @@ This is a pic of the published model on firebase
 
 This are some screenshots from the app
 
-<h4>Input image</h4>
+Input image
+
 ![](https://github.com/Mbah-Javis/ImageClassificationApp/blob/master/screenshots/Screenshot_20200102-170838.png)
 
-<h4>Output image with classification<h4>
+Output image with classification
+
 ![](https://github.com/Mbah-Javis/ImageClassificationApp/blob/master/screenshots/Screenshot_20200102-170846.png)
