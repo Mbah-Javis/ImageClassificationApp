@@ -5,7 +5,7 @@ An android app that uses the mobilenet_v1 model converted to tflite format and u
 This is a pic of the published model on firebase
 ![](https://github.com/Mbah-Javis/ImageClassificationApp/blob/master/screenshots/pic.png)
 
-This are some screenshots from the app
+<h4>This are some screenshots from the app</h4>
 
 Input image
 
